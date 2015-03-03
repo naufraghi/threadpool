@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex['threadpool'] = {"items":[[0,"","threadpool","Abstraction of a thread pool for basic parallelism."],[3,"ThreadPool","","A thread pool used to execute functions in parallel."],[3,"ScopedPool","","A scoped thread pool used to execute functions in parallel."],[11,"new","","Spawns a new thread pool with `threads` threads.",0],[11,"execute","","Executes the function `job` on a thread in the pool.",0],[11,"new","","Spawns a new thread pool with `threads` threads.",1],[11,"execute","","Executes the function `job` on a thread in the pool.",1],[11,"drop","","",1]],"paths":[[3,"ThreadPool"],[3,"ScopedPool"]]};
+initSearch(searchIndex);
